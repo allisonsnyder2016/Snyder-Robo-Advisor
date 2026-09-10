@@ -1,6 +1,6 @@
-gradio
+gradio>=4.44.0,<5
 numpy
 pandas
-scipy
 plotly
+scipy
 yfinance
